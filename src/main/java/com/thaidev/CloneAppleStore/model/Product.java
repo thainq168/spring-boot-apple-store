@@ -1,6 +1,6 @@
 package com.thaidev.CloneAppleStore.model;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 
 @Entity
 public class Product {
